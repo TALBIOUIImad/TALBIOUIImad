@@ -1,38 +1,49 @@
 # Hi there 👋, I'm Imad Talbioui
 
 ## 💻 About Me
-I am an aspiring developer passionate about learning programming and building practical projects.  
-Currently, I am improving my skills in **Python**, problem-solving, and software development through exercises, mini-projects, and continuous practice.
+I am an aspiring developer passionate about learning programming through practical work, problem-solving, and continuous improvement.  
+Currently, I am focused on **Python**, **algorithms**, and building useful mini-projects to strengthen my software development skills.
 
 ---
 
 ## 🚀 Current Focus
-- Learning **Python** deeply
-- Building practical coding projects
-- Improving algorithmic thinking
-- Strengthening Git & GitHub workflow
-- Creating a strong developer portfolio
+- Deepening my knowledge in **Python**
+- Practicing **algorithms and logical problem-solving**
+- Building mini-projects with **Tkinter**
+- Improving my **Git & GitHub workflow**
+- Creating a strong and professional developer portfolio
 
 ---
 
 ## 🛠️ Skills & Tools
 - **Languages:** Python
-- **Tools:** Git, GitHub, VS Code
-- **Concepts:** Problem-solving, basic algorithms, TD/TP exercises, mini-projects
+- **Tools:** Git, GitHub, VS Code, Tkinter
+- **Concepts:** Algorithms, problem-solving, structured programming, mini-project development
 
 ---
 
-## 📌 Featured Projects
-- [Exercices-Python](https://github.com/TALBIOUIImad/Exercices-Python)  
-  A professional Python learning repository containing practical exercises, TD/TP assignments, mini-projects, and essential programming concepts.
+## 📌 Featured Repositories
+
+### 🐍 Exercices-Python
+A professional Python learning repository containing practical exercises, TD/TP assignments, mini-projects, Tkinter applications, and essential programming concepts.  
+🔗 [View Repository](https://github.com/TALBIOUIImad/Exercices-Python)
+
+### 🧠 Algorithmes_exercices
+A repository of algorithm exercises designed to strengthen logical thinking, problem-solving skills, and core programming fundamentals.  
+🔗 [View Repository](https://github.com/TALBIOUIImad/Algorithmes_exercices)
+
+### 🎓 Youcode
+A personal learning repository showcasing projects, exercises, and practical work completed during my YouCode training, focused on continuous development and hands-on programming.  
+🔗 [View Repository](https://github.com/TALBIOUIImad/Youcode)
 
 ---
 
 ## 📈 Goals
 - Build more real-world Python projects
-- Improve coding structure and best practices
+- Improve code quality and project structure
+- Strengthen algorithmic thinking
 - Expand into larger software development projects
-- Grow as a consistent and disciplined developer
+- Continue growing as a disciplined and consistent developer
 
 ---
 
